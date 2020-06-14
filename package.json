@@ -1,0 +1,22 @@
+{
+  "name": "gitflow",
+  "version": "1.0.0",
+  "description": "* Why this repos exists   * I want a place to test out branch flows. * How is this readme structured   * Checklist of git techniques",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "git pull && git add -A && git push && sleep 5",
+    "postversion": "git push -u --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariomui/gitflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariomui/gitflow/issues"
+  },
+  "homepage": "https://github.com/mariomui/gitflow#readme"
+}
