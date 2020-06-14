@@ -1,6 +1,6 @@
 {
   "name": "gitflow",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "* Why this repos exists   * I want a place to test out branch flows. * How is this readme structured   * Checklist of git techniques",
   "main": "index.js",
   "scripts": {
